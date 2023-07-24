@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/le-show/july-04-2010/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "July 04, 2010" ] },
+    "homepage": [
+      {
+        "id": "https://harryshearer.com/le-shows/july-04-2010/",
+        "type": "Text",
+        "label": { "en": [ "July 04, 2010" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://harryshearer.com/le-show/",
+        "type": "Agent",
+        "label": { "en": [ "Le Show Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3540.0,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://harryshearer.com/wp-content/uploads/2012/08/ls100704le_Show_-_July_4_200.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3540.0
+                },
+                "target": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
