@@ -10,5 +10,4 @@ layout: home
 <br>
 <hr>
 <center><h3>The topic of this exhibition will be on Harry Shearer's use of dark humor-- sometimes referred to as black humor, black comedy, dark comedy, etc.-- to analyze and come to a conclusion about its relationship to the severity of the subject and its relationship with truth and honesty. Under the line below this paragraph will show all of the different pages of the exhibition, so to continue on to the introduction, click the link titled "Satire vs. Dark Humor".</h3></center>
-<br>
 <hr>
