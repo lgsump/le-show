@@ -23,6 +23,6 @@ So the key difference Breton is trying to make is that satire pushes, like much 
 <br>
 Now, we are going to delve into three different episodes from <i>Le Show</i>, where we will see aspects of both satire and dark humor. Click the drop-down list in the top left corner or the link below to go to the first recording titled “March 24, 2013”.</h4>
 <hr>
-<center>March 24, 2013</center>
+<center><h2><a href="https://lgsump.github.io/le-show/march-24-2013">March 24, 2013</a></h2></center>
 <hr>
 </div>
