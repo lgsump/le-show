@@ -23,6 +23,16 @@
         "id": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3540.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/july-04-2010-canvas-1-le-show-archive-bookmarks.json",
+            "label": {
+              "none": ["Le Show Archive bookmarks"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/paintings",
