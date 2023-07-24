@@ -5,7 +5,7 @@ permalink: satire-vs-dark-humor
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<div style="padding: 20px;"><h4>Harry Shearer, a self-described satirist, has become very comfortable and familiar with the workings of satire. For example, in your most traditional introduction to satire, let’s use the Cambridge Introduction, the very question of defining satire becomes problematic. Most scholars, according to scholar Johnathan Greenberg, agree that it makes more sense to treat satire like a form that has “family resemblances” (Greenberg 12). An early attempt at making a model that showcases some of the “family resemblances" is Northrop Frye in 1957. It is a two-part model that asserts that satire uses both a “token of fantasy” and a “moral standard” (Frye, 223). 
+<div style="padding: 50px;"><h4>Harry Shearer, a self-described satirist, has become very comfortable and familiar with the workings of satire. For example, in your most traditional introduction to satire, let’s use the Cambridge Introduction, the very question of defining satire becomes problematic. Most scholars, according to scholar Johnathan Greenberg, agree that it makes more sense to treat satire like a form that has “family resemblances” (Greenberg 12). An early attempt at making a model that showcases some of the “family resemblances" is Northrop Frye in 1957. It is a two-part model that asserts that satire uses both a “token of fantasy” and a “moral standard” (Frye, 223). 
 <br>
 <br>
 The element of fantasy in satire can range from exaggeration, caricature, or distortion, all which take the scenario beyond realism. Greenberg expresses that satire and the use of this fantasy is what allows us to see the “hard truths about society’s corruption” or things like that which are normally “closed off to the higher genres” (Greenberg 19). A highlight of what Greenberg notes as to the importance of fantasy in satire is that “the indulgence of play can just as easily be seen as satire’s real “purpose” (Greenberg 20). 
@@ -21,6 +21,6 @@ So the key difference Breton is trying to make is that satire pushes, like much 
 <br>
 Now, we are going to delve into three different episodes from <i>Le Show</i>, where we will see aspects of both satire and dark humor. Click the drop-down list in the top left corner or the link below to go to the first recording titled “March 24, 2013”.</h4>
 <hr>
-March 24, 2013
+<center>March 24, 2013</center>
 <hr>
 </div>
