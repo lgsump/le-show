@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Le Show: On Dark Humor" ] },
+    "summary": { "en": [ "A look into Harry Shearer's work on the lines surrounding dark humor in \"Le Show\". " ] },
+    "items": [
+    ]
+}
