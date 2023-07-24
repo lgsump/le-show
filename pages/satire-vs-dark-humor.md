@@ -5,7 +5,7 @@ permalink: satire-vs-dark-humor
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<img width="200" height="200" style="padding: 10px;" align="left" src="https://github.com/lgsump/le-show/assets/122332459/c954594c-d434-4366-bb03-1cdd88921e07">
+<img width="200" height="200" style="padding-left: 50px;" style="padding-right: 10px;" align="left" src="https://github.com/lgsump/le-show/assets/122332459/c954594c-d434-4366-bb03-1cdd88921e07">
 
 <div style="padding: 50px;"><h4>Harry Shearer, a self-described satirist, has become very comfortable and familiar with the workings of satire. For example, in your most traditional introduction to satire, let’s use the Cambridge Introduction, the very question of defining satire becomes problematic. Most scholars, according to scholar Johnathan Greenberg, agree that it makes more sense to treat satire like a form that has “family resemblances” (Greenberg 12). An early attempt at making a model that showcases some of the “family resemblances" is Northrop Frye in 1957. It is a two-part model that asserts that satire uses both a “token of fantasy” and a “moral standard” (Frye, 223). 
 <br>
