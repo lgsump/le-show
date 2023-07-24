@@ -4,3 +4,9 @@
 
 layout: home
 ---
+<h1><i>Le Show</i> by Harry Shearer </h1>
+  
+<h4>Harry Shearer is a world-renowned actor, author, satirist, and comedian, known by many for his voice as Ned Flanders on the hit television show <i>The Simpsons</i>, as an actor for multiple seasons on <i>Saturday Night Live</i> as well as the mockumentary <i>This Is Spinal Tap</i> (1984). For the purpose of this exhibition, we are going to focus on one of Shearer’s projects, <i>Le Show</i>, which is a radio show hosted by Shearer that showcases a multitude of entertainment from scripted skits and witty political commentary to readings of public documents and original music by Shearer. </h4>  <img width="223" padding=10 alt="Screen Shot 2023-07-24 at 11 42 24 AM" src="https://github.com/lgsump/le-show/assets/122332459/977cf527-81cb-4ef4-b33c-0336a870af1c">
+
+<br>
+<hr>
