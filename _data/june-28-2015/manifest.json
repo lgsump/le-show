@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/le-show/annotations/june-28-2015-canvas-1-bookmark.json",
-            "label": {
-              "none": ["Bookmark"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/le-show/annotations/june-28-2015-canvas-1-commentary.json",
             "label": {
               "none": ["Commentary"]
