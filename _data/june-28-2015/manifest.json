@@ -23,6 +23,24 @@
         "id": "https://lgsump.github.io/le-show/june-28-2015/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3540.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/june-28-2015-canvas-1-bookmark.json",
+            "label": {
+              "none": ["Bookmark"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/june-28-2015-canvas-1-commentary.json",
+            "label": {
+              "none": ["Commentary"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/le-show/june-28-2015/canvas-1/paintings",
