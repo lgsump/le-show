@@ -23,6 +23,48 @@
         "id": "https://lgsump.github.io/le-show/march-24-2013/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3540.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-song.json",
+            "label": {
+              "none": ["Song"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-commentary.json",
+            "label": {
+              "none": ["Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-opening.json",
+            "label": {
+              "none": ["Opening"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-news.json",
+            "label": {
+              "none": ["News"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-news-segment.json",
+            "label": {
+              "none": ["News segment"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/le-show/march-24-2013/canvas-1/paintings",

@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-news.json",
+  "type": "AnnotationPage",
+  "label": "News",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "march-24-2013-canvas-1-news-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reparations for slave owners",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/march-24-2013/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "155.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "march-24-2013-canvas-1-news-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Invasion of Iraq: 10th anniversary",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/march-24-2013/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2220.0"
+        }
+      }
+    }
+  ]
+}

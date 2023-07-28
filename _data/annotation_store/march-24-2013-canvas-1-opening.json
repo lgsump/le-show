@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/march-24-2013-canvas-1-opening.json",
+  "type": "AnnotationPage",
+  "label": "Opening",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "march-24-2013-canvas-1-opening-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Open/ Genetically modified fungus escapes",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/march-24-2013/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    }
+  ]
+}
