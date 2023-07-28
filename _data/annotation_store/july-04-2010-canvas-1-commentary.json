@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/july-04-2010-canvas-1-commentary.json",
+  "type": "AnnotationPage",
+  "label": "Commentary",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\">Shearer makes the joke \"No transparency, just clarity,\" playing with the idea that clarity allows the Church to have authorship in what it has done rather than open the doors to allow people to see for themselves. An interesting and iconic mark for the change in humor that Shearer does between sketches and news readings is his use of repetition and tone to indicate when something is funny, rather than having to use fiction or exaggeration like with sketches. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2682.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\">A tone shift and emphasis on the word \"alongside\" shows us that the particular point that was funny to Shearer was the fact that the Church would prefer to be working with the authorities. This seems to be funny because in most instances the authorities would be the police or the government, yet the Church would prefer that they live alongside rather than under the law. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\">\"Now we know what galls the Vatican\" seems to be a reference to the large and deep history that the Vatican has in relation to horrible things it has done, and Shearer seems to think that one of those many horrible things would be able to \"gall\" them, yet for them it was something done in a police investigation on their behavior. Again, a play with repetition of their own words.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\">Shearer then quickly transitions from the \"News of the Godly\" content to a previously mentioned incident regarding Father Murphy, a Priest from Milwaukee that sexually abused hundreds of deaf children. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2820.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\">As we begin to listen, it is interesting to think of the mode and form that Shearer chose to make this song. It includes Georgian chant, a commonly used technique in religious choral music. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2835.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">What is also interesting as we hear the lines \"between me and the broom,\" we are starting to get pieces of imagery. This, unlike the comedy of repetition of news reports on this issue, is a literary creation of Shearer. Now, we are entering a different territory, not one that allows you to make fun of their own words, but one that uses your own words. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dark Humor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2850.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">\"And I can be loud\" seems like a perfect line for us to truly disect this work as a work of dark humor. Not only is it true to the definition we saw as \"joking about cruelty,\" but it also fits the bits of theory we saw by Breton. In a fictional piece, one that requires Shearer to write with his own words, how can he derive humor without exaggerating or making a show of the sexual abuse of these children? It seems here, whether entirely intentional or subconscious, Shearer makes the important decision to allow dark humor to emphasize the horrible nature of the events, since the play of words isn't possible due to it being his own.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dark Humor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2862.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">When we get to the second part of the song, it is also immensely important to recognize that these numbers were included specifically for its relationship to truth. Were the song created for purely entertainment, the song would take the route of being the catchiest or the most shock-value ridden. Like we listened to in the transition from \"News of the Godly\" to \"Deaf Boys,\" Shearer indicates here that what is most important in this structure is its ability to speak truth. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dark Humor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-commentary-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">As we continue to hear him speak, we begin to realize a bit of the idea that it couldn't truly be possible for him to have gotten all of that information from the words of the abuser. This turns us to an important point for dark humor, especially in its relationship to fiction, or for continuity sake, fantasy. For satire, the fantasy shown is usually done as an exaggeration, whereas for dark humor, it is best shown through the emphasis of the real, the horrible. This idea alone gives us a great reason for why dark humor is necessary, as the ability to create gives us something more than just the reality of the horrible things in the world. With dark humor, we can create something that not only starts the conversation about these horrible things, but also gives a hand to our intellect in how these horrible things can be related to horrible ideas that supercede specific situations like power, innocence, truth, etc. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dark Humor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3000.0"
+        }
+      }
+    }
+  ]
+}
