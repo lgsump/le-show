@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/july-04-2010-canvas-1-sketch.json",
+  "type": "AnnotationPage",
+  "label": "Sketch",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-sketch-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Larry King Live: Dewey Gordon",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1592.0"
+        }
+      }
+    }
+  ]
+}

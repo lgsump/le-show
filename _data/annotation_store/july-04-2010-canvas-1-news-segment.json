@@ -1,0 +1,148 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/july-04-2010-canvas-1-news-segment.json",
+  "type": "AnnotationPage",
+  "label": "News segment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News from Outside the Bubble",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News of the Atom",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1043.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News of the Olympic Movement and Radioactivity",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1131.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News of Inspectors General",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1975.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "News of the Godly",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "News of the Godly",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2634.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-segment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News of the Warm",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3029.0"
+        }
+      }
+    }
+  ]
+}

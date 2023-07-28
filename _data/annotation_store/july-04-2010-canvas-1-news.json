@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/july-04-2010-canvas-1-news.json",
+  "type": "AnnotationPage",
+  "label": "News",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Oil Spill",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "288.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Is BP any worse than the other oil companies?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2179.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "july-04-2010-canvas-1-news-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Excerpt from Stan Freberg Presents the United States of America",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/july-04-2010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2412.0"
+        }
+      }
+    }
+  ]
+}
