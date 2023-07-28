@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/le-show/annotations/june-28-2015-canvas-1-opening.json",
+  "type": "AnnotationPage",
+  "label": "Opening",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "june-28-2015-canvas-1-opening-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Open/ Bristol Palin, marriage equity, confederate flag",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/le-show/june-28-2015/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    }
+  ]
+}
