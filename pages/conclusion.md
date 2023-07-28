@@ -24,6 +24,7 @@ What he then creates is something that is both real and fiction, something that 
 <br>
 Harry Shearer even hits this point directly in an interview with The Hollywood Reporter:
 <br>
+  <br>
 <blockquote>”‘Deaf Boys’ is certainly as close to the line as you can possibly get. When I first wrote the line, ‘Deaf boys can’t hear me coming,’ I thought, come on now. You can’t really do that.’ Oh yes, I can. I think extremely transgressive behavior deserves extremely transgressive ridicule. How can you be nice and write about something so horrible?” Harry Shearer</blockquote>
 
 As we can see here, Harry Shearer, like Breton before him, sees this relationship that dark humor has with truth and honesty. It becomes more important than any moral action. What might be interesting to think about is how we might view this in comparison to things like apologies. In some instances, having reasoning, routes for success, or strategies for improvement aren’t the necessary or complete pathway to healing. Maybe it is impossible to heal if you only have healing in mind instead of accepting the reality of why you need to heal. What many dark humorists, like Breton or Shearer, might be alluding to with works of dark humor is that tragedy and human suffering isn’t measurable, and by using it in comparison with moral judgment or as a stepping stone to healing, is doing quite the opposite. It puts the nasty, the foul, the ugly, in the shadows. 
