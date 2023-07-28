@@ -23,8 +23,8 @@ However, when it comes to dark humor, specifically, Greenberg makes it clear tha
 So the key difference Breton is trying to make is that satire pushes, like much of the “family resemblances” we have talked about, the audience or argument towards some moral answer, whereas dark humor merely emphasizes the truth of the violence or cruelty. However, large criticisms have been made about the appropriateness of dark humor. Many view it as indecent and harmful, especially to those that may have endured the very suffering it jokes about. For some, the idea of humor and play seem to downplay the severity of the suffering or cruelty.
 <br>
 <br>
-Now, we are going to delve into three different episodes from <i>Le Show</i>, where we will see aspects of both satire and dark humor. Click the drop-down list in the top left corner or the link below to go to the first recording titled “March 24, 2013”.</h4>
+Now, we are going to delve into three different episodes from <i>Le Show</i>, where we will see aspects of both satire and dark humor. Click the drop-down list in the top left corner or the link below to go to the first recording titled “June 28, 2015”.</h4>
 <hr>
-<center><h2><a href="https://lgsump.github.io/le-show/march-24-2013">March 24, 2013</a></h2></center>
+<center><h2><a href="https://lgsump.github.io/le-show/june-28-2015">June 28, 2015</a></h2></center>
 <hr>
 </div>
