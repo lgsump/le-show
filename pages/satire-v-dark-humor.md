@@ -5,7 +5,7 @@ permalink: satire-v-dark-humor
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<div style="padding-left: 50px; padding-right: 50px"><h1><b>Satire vs. Dark Humor</b></h1>
+<div style="padding-left: 50px; padding-right: 50px"><h1><b>Satire v. Dark Humor</b></h1>
 <img width="200" height="200" style="padding-left: 10px; padding-right: 10px;" style align="right" src="https://github.com/lgsump/le-show/assets/122332459/c954594c-d434-4366-bb03-1cdd88921e07">
 <h4>
 As we’ve taken a look into Harry Shearer’s <i>Le Show</i>, and now have a good idea about when, where, and why he seems to use satire versus dark humor. There are some good points, or at the very least, some points that start some good conversations. Dark humor has and continues to be a controversial topic in the field of comedy as well as in our everyday lives. Knowing if something is “worth” joking about, or whether or not one should make a certain joke, is something that we should be conscious of, and it is healthy for the well-being of a community. 
