@@ -46,7 +46,7 @@ Harry Shearer even hits this point directly in an interview with The Hollywood R
 
 As we can see here, Shearer, like Breton before him, sees this relationship that dark humor has with truth. It becomes more important than any moral action. What might be interesting to think about is how we might view this in comparison to things like apologies. In some instances, having reasoning, routes for success, or strategies for improvement aren’t the necessary or complete pathway to healing. Maybe it is impossible to heal if you only have healing in mind instead of accepting the reality of why you need to heal. What many dark humorists, like Breton or Shearer, might be alluding to with works of dark humor is that tragedy and human suffering isn’t measurable, and by using it in comparison with moral judgment or as a stepping stone to healing, is doing quite the opposite. It puts the nasty, the foul, the ugly, in the shadows. 
 <hr>
-<center>There is also a page in the drop-down menu labeled "Index," and it contains a couple categories useful for grouping some of the annotations together. There is even a collection of "Music not by Shearer" if you want a break!
+<center>There is also a page in the drop-down menu labeled "Index," and it contains a couple categories useful for grouping some of the annotations together. There is even a collection of "Music not by Shearer" if you want a break!</center>
 <hr>
 <div style="padding-left: 50px; padding-right: 50px"><h1><b>Works Cited</b></h1>
 <h4>
